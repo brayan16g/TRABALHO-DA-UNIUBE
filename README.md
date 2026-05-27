@@ -113,5 +113,5 @@ O algoritmo e organizado em procedimentos separados para cada area funcional.
 - Interface: texto e arte ASCII no terminal
 
 ## DOWNLOAD DO ARQUIVO  
-
+[Clique aqui para ver a versão na etiqueta]( https://github.com/brayan16g/TRABALHO-DA-UNIUBE/releases)
 
